@@ -28,7 +28,7 @@ class Window(Frame):
         self.img2_5 = None
 
     def init_window(self):
-        self.master.title("office图片处理功能实现----尚华峰&刘香怡")
+        self.master.title("office图片处理功能实现----")
         self.pack(fill=BOTH,expand=1)
 
         # 实例化一个Menu对象，在窗体添加一个菜单
